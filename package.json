@@ -1,7 +1,7 @@
 {
-    "name": "MiraiBypassD-Jukie",
+    "name": "DongDev Bot",
     "version": "1.2.14",
-    "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
+    "description": "Mua File liên hệ Fb.",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
